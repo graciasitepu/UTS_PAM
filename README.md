@@ -2,7 +2,10 @@
 Nama Aplikasi: Contact App
 
 # Deskripsi Aplikasi
-Contact App adalah aplikasi sederhana react native dengan bantuan API Expo Contacts dan Statusbar [API Expo References](https://docs.expo.dev/versions/latest/) yang digunakan untuk melakukan pencarian kontak dan menampilkan daftar kontak yang ada di android atau handphone user. Apikasi ini juga membutuhkan izin akses yang akan ditampilkan dalam bentuk notifikasi ketika aplikasi selesai diinstal.
+Contact App adalah aplikasi sederhana react native dengan bantuan API Expo Contacts dan Statusbar 
+[API Expo References](https://docs.expo.dev/versions/latest/) yang digunakan untuk melakukan pencarian kontak dan 
+menampilkan daftar kontak yang ada di android atau handphone user. Apikasi ini juga membutuhkan izin akses yang akan 
+ditampilkan dalam bentuk notifikasi ketika aplikasi selesai diinstal.
 
 # Daftar Package yang digunakan (expo)
     "expo": "~46.0.16",
@@ -20,7 +23,8 @@ Contact App adalah aplikasi sederhana react native dengan bantuan API Expo Conta
     "react-native-screens": "~3.15.0"
 
 # Instalasi Aplikasi
-1. Untuk menginstall aplikasi, open link ini [Download Contact-App_120140084.apk](https://drive.google.com/file/d/1TFwmhivlSkAKtbkV-afEJHtxUp9n6nON/view?usp=sharing) lalu download file apk dengan menggunakan android. Setelah download file aplikasi selesai, lakukan install sesuai notifikasi pada handphone dan izinkan akses kontak agar aplikasi dapat digunakan.
+1. Untuk menginstall aplikasi, open link ini 
+[Download Contact-App_120140084.apk](https://drive.google.com/file/d/1TFwmhivlSkAKtbkV-afEJHtxUp9n6nON/view?usp=sharing) lalu download file apk dengan menggunakan android. Setelah download file aplikasi selesai, lakukan install sesuai notifikasi pada handphone dan izinkan akses kontak agar aplikasi dapat digunakan.
 
 2. Cara kedua dengan clone folder repository `ProjectApp` atau download ZIP. Pada cmd lalu jalankan dengan perintah berikut:
 
