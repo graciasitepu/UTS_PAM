@@ -111,11 +111,11 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: "space-between",
   },
-  cardbox: { //kotak nama
+  cardbox: {
     margin: 5,
     backgroundColor: '#DCDCDC',
   },
-  header: { //judul 
+  header: {
     backgroundColor: "#5F9EA0",
     margin: 10,
   },
@@ -127,7 +127,7 @@ const styles = StyleSheet.create({
     borderRadius: 6,
     backgroundColor: '#A9A9A9',
   },
-  iconBox: { //gambar org
+  iconBox: {
     width: 50,
     height: 50,
     backgroundColor: "#008B8B",
